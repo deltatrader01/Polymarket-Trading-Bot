@@ -2,7 +2,7 @@
 
 **Gabagool** is an automated volatility arbitrage trading bot for Polymarket that exploits pricing inefficiencies in prediction markets. The bot monitors market volatility, identifies arbitrage opportunities, and executes delta-neutral trades to capture spread profits while managing risk.
 
-**Repository:** [github.com/gabagool222/Gabagool](https://github.com/deltatrader01/Polymarket-Trading-Bot)  
+**Repository:** [https://github.com/deltatrader01/Polymarket-Trading-Bot](https://github.com/deltatrader01/Polymarket-Trading-Bot)  
 **Telegram:** [@gabagool222](https://t.me/gabagool222)
 
 ---
