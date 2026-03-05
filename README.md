@@ -1,16 +1,15 @@
-# 🍖 Gabagool - Polymarket Volatility Arbitrage Bot
+# Polymarket Volatility Arbitrage Bot
 
-**Gabagool** is an automated volatility arbitrage trading bot for Polymarket that exploits pricing inefficiencies in prediction markets. The bot monitors market volatility, identifies arbitrage opportunities, and executes delta-neutral trades to capture spread profits while managing risk.
+An automated volatility arbitrage trading bot for Polymarket that exploits pricing inefficiencies in prediction markets. The bot monitors market volatility, identifies arbitrage opportunities, and executes delta-neutral trades to capture spread profits while managing risk.
 
-**Repository:** [https://github.com/deltatrader01/Polymarket-Trading-Bot](https://github.com/deltatrader01/Polymarket-Trading-Bot)  
-**Telegram:** [@gabagool222](https://t.me/gabagool222)
+**Telegram:** [@qntrade](https://t.me/qntrade)
 
 ---
 
 ## 📁 Project Structure
 
 ```
-Gabagool/
+polymarket-arbitrage-bot/
 ├── bot/           # Trading bot (Python/FastAPI) — Polymarket API, strategy, risk engine
 ├── dashboard/     # Web UI (Next.js) — monitor positions and control the bot
 ├── docs/          # Documentation — how to use the bot and strategy explained
@@ -38,7 +37,7 @@ See **[docs/trading-strategy.md](docs/trading-strategy.md)** for a simple, full 
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                      Gabagool System                         │
+│                   Polymarket Arbitrage System                │
 ├─────────────────────────────────────────────────────────────┤
 │  ┌──────────────┐      ┌──────────────┐      ┌──────────┐   │
 │  │   Next.js    │      │   FastAPI    │      │  Redis   │   │
@@ -71,9 +70,6 @@ See **[docs/trading-strategy.md](docs/trading-strategy.md)** for a simple, full 
 
 ### 1. Clone
 
-```bash
-git clone https://github.com/gabagool222/Gabagool.git
-cd Gabagool
 ```
 
 ### 2. Configure
@@ -165,7 +161,7 @@ Trading involves risk of loss. Possible risks include: smart contract risk, mark
 ## 📞 Support
 
 - **Docs:** [docs/](docs/) — [Getting Started](docs/getting-started.md), [Trading Strategy](docs/trading-strategy.md)
-- **Telegram:** [@gabagool222](https://t.me/gabagool222)
+- **Telegram:** [@qntrade](https://t.me/qntrade)
 - **API docs (when bot running):** http://localhost:8000/docs
 
 ---
